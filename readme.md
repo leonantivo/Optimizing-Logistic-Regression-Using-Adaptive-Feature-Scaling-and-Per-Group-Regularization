@@ -61,15 +61,6 @@ Where:
     python optimized_logistic_regression.py
     ```
 
-<!-- ### Results
-
-The script will output the performance metrics of the combined model:
-
-```
-Accuracy: 0.9825
-F1 Score: 0.9818
-ROC AUC: 0.9983
-``` -->
 
 These results demonstrate the effectiveness of the AFS and PGR approach on the breast cancer dataset, showcasing a high-performing and well-generalized model.
 
