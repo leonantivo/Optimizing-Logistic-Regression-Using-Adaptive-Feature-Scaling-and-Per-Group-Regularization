@@ -60,10 +60,6 @@ Where:
     ```bash
     python optimized_logistic_regression.py
     ```
-
-
-These results demonstrate the effectiveness of the AFS and PGR approach on the breast cancer dataset, showcasing a high-performing and well-generalized model.
-
 ### Contributing
 
 We welcome contributions to this project. Feel free to open an issue or submit a pull request for improvements, bug fixes, or new features.
