@@ -1,9 +1,3 @@
-I will create an MD file for GitHub based on your research paper. This will serve as a project README, providing an overview, setup instructions, and an explanation of the code, aligning with the "Source Code and README" appendix you mentioned.
-
-Here is the markdown file:
-
------
-
 ## Optimizing Logistic Regression Using Adaptive Feature Scaling and Per-Group Regularization
 
 This repository contains the source code for the research paper "Optimizing Logistic Regression Using Adaptive Feature Scaling and Per-Group Regularization." The code demonstrates a novel approach to enhancing logistic regression performance by integrating Adaptive Feature Scaling (AFS) and Per-Group Regularization (PGR).
