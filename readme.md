@@ -63,9 +63,3 @@ Where:
 ### Contributing
 
 We welcome contributions to this project. Feel free to open an issue or submit a pull request for improvements, bug fixes, or new features.
-
-### Citation
-
-If you use this code or research in your own work, please cite our paper:
-
-[Full citation of your paper here, e.g., "Doe, J. and Smith, A. (2025). Optimizing Logistic Regression Using Adaptive Feature Scaling and Per-Group Regularization. Journal of Applied Data Science, 1(1), 1-10."]
